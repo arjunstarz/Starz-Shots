@@ -1,0 +1,12 @@
+# Sample reference file for File Copier Program
+# Lines starting with # are comments and will be ignored
+# Each line should contain the name of a file to copy
+
+document1.pdf
+image.jpg
+data.csv
+report.docx
+config.json
+readme.txt
+script.py
+presentation.pptx
